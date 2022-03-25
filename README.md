@@ -1,4 +1,4 @@
-# 🔥node-web-scraping
+# 🔥web-crawling-nodejs
 Node.js, axios, cheerio를 이용해서 특정 사이트에 데이터를 웹스크래핑을 하고 그 데이터를 mongodb에 저장하는 코드 입니다.
 
 ### 1. 패키지 설치
